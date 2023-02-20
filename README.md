@@ -3,7 +3,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=takeshi-arihori&show_icons=true&locale=en&layout=compact" alt="takeshi-arihori" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Takeshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=takeshi-arihori)](https://github.com/takeshi-arihori/github-readme-stats)
 
 
 
