@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [RecursionCS](https://recursionist.io/users/arihori13)
 
-- 🌱 I’m currently learning **React, Vue, Node.js**
+- 🌱 I’m currently learning **React, Vue.js, TypeScript**
 
 - 📝 I regularly write articles on [https://qiita.com/arihori13](https://qiita.com/arihori13)
 
