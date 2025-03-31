@@ -11,7 +11,7 @@
 [![Takeshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=takeshi-arihori)](https://github.com/takeshi-arihori/github-readme-stats)
 
 
-- 🔭 I’m currently working on [RecursionCS](https://recursionist.io/users/arihori13)
+- 🔭 I’m currently working on [RecursionCS]([https://recursionist.io/users/arihori13](https://recursionist.io/users/arihori))
 
 - 🌱 I’m currently learning **React, Vue.js, TypeScript, AWS, Docker**
 
