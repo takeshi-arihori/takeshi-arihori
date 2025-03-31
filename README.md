@@ -19,8 +19,6 @@
 
 - 📫 How to reach me **xxxarihoriixxx@gmail.com**
 
-### [職務経歴(Wantedly)](https://www.wantedly.com/id/takeshi_arihori_a)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/takeshi-arihori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="takeshi-arihori" height="30" width="40" /></a>
