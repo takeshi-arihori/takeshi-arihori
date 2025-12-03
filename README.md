@@ -15,15 +15,6 @@
 
 ---
 
-## 🚀 About Me
-- Full Stack Web Engineer since **2023**
-- Experienced with **PHP / Laravel / TypeScript / React.js**
-- Previously worked in **construction & telecom industries**
-- Focus on **clean architecture / domain-driven design / API development**
-- Love learning new technologies and building useful apps
-
----
-
 ## 🛠 Tech Stack
 
 ### Backend
@@ -33,10 +24,10 @@
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,vue,react,html,css" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,html,css" />
 </p>
 
-### DevOps / Tools
+### DevOps / Infra
 <p>
   <img src="https://skillicons.dev/icons?i=docker,github,git,linux,aws" />
 </p>
