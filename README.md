@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Takeshi Arihori</h1>
-<h3 align="center">Freelance Web Engineer • PHP / TypeScript / Laravel / Vue</h3>
+<h3 align="center">Full Stack Web Engineer • PHP / TypeScript / Laravel / React</h3>
 
 <p align="center">
   <a href="https://github.com/takeshi-arihori">
