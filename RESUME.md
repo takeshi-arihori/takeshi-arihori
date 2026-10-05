@@ -30,7 +30,7 @@ PHP / Laravelを中心に、業務システムのバックエンド開発を3年
 案件名をクリックすると詳細を表示できます。
 
 <details>
-<summary><strong>勤怠・就業管理システムの刷新・機能改修</strong></summary>
+<summary><strong>勤怠・就業管理システムの刷新・機能改修（2026年4月〜2026年9月）</strong></summary>
 
 | 項目 | 内容 |
 | --- | --- |
@@ -59,7 +59,7 @@ DDD / CQRS / Event Sourcingは既存アーキテクチャに沿った実装経�
 </details>
 
 <details>
-<summary><strong>データ入力業務管理システムのリプレイス</strong></summary>
+<summary><strong>データ入力業務管理システムのリプレイス（2025年5月〜2026年3月）</strong></summary>
 
 | 項目 | 内容 |
 | --- | --- |
@@ -84,7 +84,7 @@ Repository InterfaceをMockeryで差し替え、DBに依存せずUseCaseの振�
 </details>
 
 <details>
-<summary><strong>製造業向け製品検索システムの管理画面開発</strong></summary>
+<summary><strong>製造業向け製品検索システムの管理画面開発（2024年11月〜2025年4月）</strong></summary>
 
 | 項目 | 内容 |
 | --- | --- |
@@ -106,7 +106,7 @@ Repository InterfaceをMockeryで差し替え、DBに依存せずUseCaseの振�
 </details>
 
 <details>
-<summary><strong>医療機関向け領収書発行システムの改修・実行環境整備</strong></summary>
+<summary><strong>医療機関向け領収書発行システムの改修・実行環境整備（2024年9月〜2024年10月）</strong></summary>
 
 | 項目 | 内容 |
 | --- | --- |
@@ -122,7 +122,7 @@ Repository InterfaceをMockeryで差し替え、DBに依存せずUseCaseの振�
 </details>
 
 <details>
-<summary><strong>福祉事業者向けコーポレートサイト制作</strong></summary>
+<summary><strong>福祉事業者向けコーポレートサイト制作（2024年7月〜2024年8月）</strong></summary>
 
 - **期間**：2024年7月〜2024年8月
 - **役割**：開発者兼リーダー（デザイナーとの2名体制、前任者から引き継ぎ）
@@ -133,7 +133,7 @@ Repository InterfaceをMockeryで差し替え、DBに依存せずUseCaseの振�
 </details>
 
 <details>
-<summary><strong>スポーツクラブ運営サイト・スクール管理画面の保守・改修</strong></summary>
+<summary><strong>スポーツクラブ運営サイト・スクール管理画面の保守・改修（2023年4月〜2024年6月）</strong></summary>
 
 - **期間**：2023年4月〜2024年6月
 - **役割**：開発メンバー（業務委託）
