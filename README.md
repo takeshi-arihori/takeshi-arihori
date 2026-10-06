@@ -48,6 +48,4 @@ Hono / GraphQL Yoga / Pest / Vitest / Playwright
 
 | Project | 内容 | 主な技術 |
 | --- | --- | --- |
-| [movie-api](https://github.com/takeshi-arihori/movie-api) | 映画・TV番組API。GoによるWeb API開発を実践 | Go / React / TypeScript |
-| [blog-service](https://github.com/takeshi-arihori/blog-service) | API・CRUD・DDDを学ぶブログサービス | Laravel / React / TypeScript / Hono |
 | [kakei_app](https://github.com/takeshi-arihori/kakei_app) | グループの共有支出・精算を管理するアプリを開発 | Next.js / TypeScript / Hono / GraphQL / PostgreSQL |
